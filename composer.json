@@ -1,0 +1,9 @@
+{
+    "name": "mirek001/bootstrapforphp",
+    "description": "Privlib.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
